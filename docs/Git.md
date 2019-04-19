@@ -1,6 +1,6 @@
 # **Tìm hiểu về  Git**
 
-![](https://github.com/satthuno999/Git-Github/tree/master/images/logogit.png "Logogit")
+![](https://github.com/satthuno999/Git-Github/tree/master/images/logogit.png )
 
 ## Mục lục
 [1. Lịch sử của Git.](#lichsugit)
@@ -40,6 +40,7 @@
 ## 4. Công dụng và cách hoạt động của Git.
 + Mỗi lần ta thay đổi mã nguồn trên máy tính ta có thể ủy thác ( *commit* ) và đẩy lên kho chứa mã nguồn đó, từ máy tính khác ta dễ dàng *clone* những thay đổi mới nhất kia.
 + Ngoài ra ta sẽ dễ dàng khôi phục những thay đổi của mã nguồn mà không cần lưu lại mã nguồn trước khi sửa.
+
 ![](https://github.com/satthuno999/Git-Github/tree/master/images/sdgit.png "Work Tree")
 
 + Trong công việc:
@@ -49,16 +50,17 @@
     - Linh hoạt khi quản lý nhiều task
     - Tự tin hơn khi thử nghiệm ý tưởng mới
 + Hoạt động cơ bản của Git
+
 ![](https://github.com/satthuno999/Git-Github/tree/master/images/hdgit.png "Cách hoạt động của Git")
 
-    - Giả sử từ *Repository* chính trong **Github** ta có thể làm việc với nhiều máy tính khác nhau khi được ủy quyền.
-    - Một số Lệnh cơ bản trên Git:
+- Giả sử từ *Repository* chính trong **Github** ta có thể làm việc với nhiều máy tính khác nhau khi được ủy quyền.
+- Một số Lệnh cơ bản trên Git:
 
-        `Clone` (bản sao): Tạo bản sao mã nguồn từ **Repo** về máy.
+    - `Clone` (bản sao): Tạo bản sao mã nguồn từ **Repo** về máy.
 
-        `Pull` (kéo): Cập nhật những thay đổi từ **Repo**, những file không thay đổi sẽ không dùng tới.
+    - `Pull` (kéo): Cập nhật những thay đổi từ **Repo**, những file không thay đổi sẽ không dùng tới.
 
-        `Push` (đẩy): Khi chỉnh sửa mã nguồn từ máy thực hiện lệnh *push* ta sẽ đẩy những thay đổi đó lên **Repo** trên **Github**.
+    - `Push` (đẩy): Khi chỉnh sửa mã nguồn từ máy thực hiện lệnh *push* ta sẽ đẩy những thay đổi đó lên **Repo** trên **Github**.
 
 <a name="repolagi">
 
